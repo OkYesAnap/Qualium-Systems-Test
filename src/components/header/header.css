@@ -1,0 +1,14 @@
+.header{
+    background-color: #F7FF00;
+    color: white;
+    grid-row: 1; 
+}
+ul li{
+    display: inline;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid black;
+}
+ul{
+    margin-top: 15px;
+}
