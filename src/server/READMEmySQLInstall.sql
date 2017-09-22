@@ -1,7 +1,7 @@
 CREATE DATABASE qualium_db;
 
--- Run READMEmySQLInstall.sql
--- нажать ервеуй кнопку 
+-- Run RunForInitialiseMySQL.html
+-- нажать первую кнопку 
 -- если надо немного начальных данных - нажать вторую кнопку.
 
 
